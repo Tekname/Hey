@@ -1,10 +1,5 @@
 <mediaList>
   <media>
-    <title>EarthCam Live:  Aquarium Cam (Baltimore, Maryland)</title>
-    <thumb>https://img.youtube.com/vi/_5zWp0bMgcI/0.jpg</thumb>
-    <type>youtube</type>
-    <src>_5zWp0bMgcI</src>
-  </media><media>
     <title>EarthCam Live:  Niagara Falls</title>
     <thumb>https://img.youtube.com/vi/qx7gry390YA/0.jpg</thumb>
     <type>youtube</type>
@@ -25,10 +20,20 @@
     <type>youtube</type>
     <src>M3EYAY2MftI</src>
   </media><media>
+    <title>EarthCam Live:  Sitka, Alaska</title>
+    <thumb>https://img.youtube.com/vi/sF5hFDGN20Y/0.jpg</thumb>
+    <type>youtube</type>
+    <src>sF5hFDGN20Y</src>
+  </media><media>
     <title>🔴 ♫ Baroque Live Music 24/7 - Classical  Music from the Baroque Period ♫ クラシック ライブ</title>
     <thumb>https://img.youtube.com/vi/2gO1v2GPMFk/0.jpg</thumb>
     <type>youtube</type>
     <src>2gO1v2GPMFk</src>
+  </media><media>
+    <title>🔴 ♫ Best Opera Arias ♫ - By I Musici Veneziani</title>
+    <thumb>https://img.youtube.com/vi/S0D3Xxr8W2w/0.jpg</thumb>
+    <type>youtube</type>
+    <src>S0D3Xxr8W2w</src>
   </media><media>
     <title>🔴 4K Live Webcam on Scalzi bridge, Venice - Live Stream from the new 4**** Hotel U-Visionary Venice</title>
     <thumb>https://img.youtube.com/vi/4wKN93E3K8g/0.jpg</thumb>
@@ -44,11 +49,6 @@
     <thumb>https://img.youtube.com/vi/P6JA_YjHMZs/0.jpg</thumb>
     <type>youtube</type>
     <src>P6JA_YjHMZs</src>
-  </media><media>
-    <title>🔴 Spectacular View of Grand Canal - Live view from Hotel San Cassiano</title>
-    <thumb>https://img.youtube.com/vi/lFQ_BvxIcnI/0.jpg</thumb>
-    <type>youtube</type>
-    <src>lFQ_BvxIcnI</src>
   </media><media>
     <title>The World Live - Original Version | earthTV®</title>
     <thumb>https://img.youtube.com/vi/HfgIFGbdGJ0/0.jpg</thumb>
@@ -145,6 +145,11 @@
     <type>youtube</type>
     <src>fE02qa-Phs0</src>
   </media><media>
+    <title>LIVE CAM: Ohio River, Jeffersonville, IN | StreamTime LIVE</title>
+    <thumb>https://img.youtube.com/vi/MqzQdTHCTOg/0.jpg</thumb>
+    <type>youtube</type>
+    <src>MqzQdTHCTOg</src>
+  </media><media>
     <title>Pier 23 Cafe, San Francisco Bay | San Francisco, CA USA | StreamTime LIVE</title>
     <thumb>https://img.youtube.com/vi/a5IW4I-z2rs/0.jpg</thumb>
     <type>youtube</type>
@@ -154,11 +159,6 @@
     <thumb>https://img.youtube.com/vi/61pi8UjLOlo/0.jpg</thumb>
     <type>youtube</type>
     <src>61pi8UjLOlo</src>
-  </media><media>
-    <title>Marine City, Michigan, USA | StreamTime LIVE</title>
-    <thumb>https://img.youtube.com/vi/F_bENs4GV24/0.jpg</thumb>
-    <type>youtube</type>
-    <src>F_bENs4GV24</src>
   </media><media>
     <title>Algonac, Michigan USA | StreamTime LIVE</title>
     <thumb>https://img.youtube.com/vi/g4mpc2I5lhc/0.jpg</thumb>
@@ -335,36 +335,6 @@
     <type>youtube</type>
     <src>ZPbgf9jLD4E</src>
   </media><media>
-    <title>Merrimack River Live Cam</title>
-    <thumb>https://img.youtube.com/vi/dHq4oTSyiVg/0.jpg</thumb>
-    <type>youtube</type>
-    <src>dHq4oTSyiVg</src>
-  </media><media>
-    <title>Riverfront Boating Live Cam</title>
-    <thumb>https://img.youtube.com/vi/IMUXzqo75Sk/0.jpg</thumb>
-    <type>youtube</type>
-    <src>IMUXzqo75Sk</src>
-  </media><media>
-    <title>Inn Street North Live Cam</title>
-    <thumb>https://img.youtube.com/vi/WkWyOQ6kQ1M/0.jpg</thumb>
-    <type>youtube</type>
-    <src>WkWyOQ6kQ1M</src>
-  </media><media>
-    <title>State Street South Live Cam - Newburyport Live Stream</title>
-    <thumb>https://img.youtube.com/vi/WkjZg22TBfQ/0.jpg</thumb>
-    <type>youtube</type>
-    <src>WkjZg22TBfQ</src>
-  </media><media>
-    <title>Market Square West Live Cam</title>
-    <thumb>https://img.youtube.com/vi/VsuSbXPN93o/0.jpg</thumb>
-    <type>youtube</type>
-    <src>VsuSbXPN93o</src>
-  </media><media>
-    <title>Plum Island Point Live Cam</title>
-    <thumb>https://img.youtube.com/vi/pB_QZmfKZd0/0.jpg</thumb>
-    <type>youtube</type>
-    <src>pB_QZmfKZd0</src>
-  </media><media>
     <title>🔴 Tropical Murphy&amp;#39;s Irish Pub | Live Webcam Stream | Chaweng | Koh Samui | Thailand | 2160p UHD 4K</title>
     <thumb>https://img.youtube.com/vi/OBJ5Q0lWbqk/0.jpg</thumb>
     <type>youtube</type>
@@ -460,10 +430,10 @@
     <type>youtube</type>
     <src>qltYs-o6kl4</src>
   </media><media>
-    <title>🔴 PHILIPPINES Street View Live camera outside Dodong Barber Shop, Agdao, Davao City #philippines</title>
-    <thumb>https://img.youtube.com/vi/D0zoMg6-XsQ/0.jpg</thumb>
+    <title>🔴 Philippines Live camera Vulcanizing Tyre Repair Shop, Agdao, Davao City #philippines</title>
+    <thumb>https://img.youtube.com/vi/ySneKrnZS_w/0.jpg</thumb>
     <type>youtube</type>
-    <src>D0zoMg6-XsQ</src>
+    <src>ySneKrnZS_w</src>
   </media><media>
     <title>COLOMBIA 4K – Tropical Beach Paradise Aerial Views With Deep House Chill 🎵</title>
     <thumb>https://img.youtube.com/vi/w4fjpu67maE/0.jpg</thumb>
