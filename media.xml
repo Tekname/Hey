@@ -1,10 +1,5 @@
 <mediaList>
   <media>
-    <title>EarthCam Live: Giraffe Cam Barn - Greenville, SC</title>
-    <thumb>https://img.youtube.com/vi/8OyZkFcGVeE/0.jpg</thumb>
-    <type>youtube</type>
-    <src>8OyZkFcGVeE</src>
-  </media><media>
     <title>EarthCam Live:  Statue of Liberty</title>
     <thumb>https://img.youtube.com/vi/cWR8KGKftUw/0.jpg</thumb>
     <type>youtube</type>
@@ -24,6 +19,11 @@
     <thumb>https://img.youtube.com/vi/AEtwttyRljo/0.jpg</thumb>
     <type>youtube</type>
     <src>AEtwttyRljo</src>
+  </media><media>
+    <title>EarthCam Live: Giraffe Cam Barn - Greenville, SC</title>
+    <thumb>https://img.youtube.com/vi/8OyZkFcGVeE/0.jpg</thumb>
+    <type>youtube</type>
+    <src>8OyZkFcGVeE</src>
   </media><media>
     <title>The World Live - Original Version | earthTV®</title>
     <thumb>https://img.youtube.com/vi/HfgIFGbdGJ0/0.jpg</thumb>
@@ -70,15 +70,15 @@
     <type>youtube</type>
     <src>X65IyR5k9jQ</src>
   </media><media>
-    <title>🥶🅻🅸🆅🅴🥶Surviving Yakutsk:➡The Coldest Places on Earth❄️Dangerous Lena River Crossing Siberia🌨️−50°C</title>
-    <thumb>https://img.youtube.com/vi/HIPJoZTKCXI/0.jpg</thumb>
-    <type>youtube</type>
-    <src>HIPJoZTKCXI</src>
-  </media><media>
     <title>🧊🅻🅸🆅🅴🧊YAKUTSK 24/7⚠️IMPOSSIBLE LIFE❄️Inside the Thick IceFog -50°C🌫️See Why Engines Never Stop Here🥶</title>
     <thumb>https://img.youtube.com/vi/SMjR6i3FXf4/0.jpg</thumb>
     <type>youtube</type>
     <src>SMjR6i3FXf4</src>
+  </media><media>
+    <title>🥶🅻🅸🆅🅴🥶Surviving Yakutsk:➡The Coldest Places on Earth❄️Dangerous Lena River Crossing Siberia🌨️−50°C</title>
+    <thumb>https://img.youtube.com/vi/HIPJoZTKCXI/0.jpg</thumb>
+    <type>youtube</type>
+    <src>HIPJoZTKCXI</src>
   </media><media>
     <title>LIVE NEWS: FOX LOCAL NY 24/7 Live Stream</title>
     <thumb>https://img.youtube.com/vi/ADXWeM9wsDw/0.jpg</thumb>
@@ -215,10 +215,10 @@
     <type>youtube</type>
     <src>X0i4arU8I9s</src>
   </media><media>
-    <title>Hamptons.com - LIVE! Main Street (East), Westhampton Beach Village and Theater</title>
-    <thumb>https://img.youtube.com/vi/bfB8mnrgXxE/0.jpg</thumb>
+    <title>Hamptons.com - LIVE! 4K LARS SIMENSON SKATEPARK, Montauk, New York</title>
+    <thumb>https://img.youtube.com/vi/RJj4ypCpJkQ/0.jpg</thumb>
     <type>youtube</type>
-    <src>bfB8mnrgXxE</src>
+    <src>RJj4ypCpJkQ</src>
   </media><media>
     <title>Boston Harbor, Massachusetts - Live - Hyatt Regency Boston Harbor</title>
     <thumb>https://img.youtube.com/vi/49WtyN1V1ZQ/0.jpg</thumb>
@@ -365,6 +365,16 @@
     <type>youtube</type>
     <src>oYTxGDUQfgI</src>
   </media><media>
+    <title>🔴 PHILIPPINES Live camera, Bankerohan Market area, Davao City #philippines</title>
+    <thumb>https://img.youtube.com/vi/qMOiz9Xrj1A/0.jpg</thumb>
+    <type>youtube</type>
+    <src>qMOiz9Xrj1A</src>
+  </media><media>
+    <title>🔴 PHILIPPINES Live camera inside Lyn&amp;#39;s Sisig Beef BBQ Restaurant, Davao City #philippines</title>
+    <thumb>https://img.youtube.com/vi/rts_4SHhFJs/0.jpg</thumb>
+    <type>youtube</type>
+    <src>rts_4SHhFJs</src>
+  </media><media>
     <title>🔴 PHILIPPINES Live camera outside Lyn&amp;#39;s Sisig Beef BBQ, Davao City #philippines</title>
     <thumb>https://img.youtube.com/vi/fmlkL1TpbI0/0.jpg</thumb>
     <type>youtube</type>
@@ -380,16 +390,6 @@
     <type>youtube</type>
     <src>xa_7z1bHsPM</src>
   </media><media>
-    <title>🔴 PHILIPPINES Live camera Lyn&amp;#39;s Samgyup Restaurant, Davao City #philippines</title>
-    <thumb>https://img.youtube.com/vi/gdr3HJqXq90/0.jpg</thumb>
-    <type>youtube</type>
-    <src>gdr3HJqXq90</src>
-  </media><media>
-    <title>🔴Live PTZ camera, Agdao Public Market, Davao City #philippines</title>
-    <thumb>https://img.youtube.com/vi/1UfgoFkC6QU/0.jpg</thumb>
-    <type>youtube</type>
-    <src>1UfgoFkC6QU</src>
-  </media><media>
     <title>Mallorca 4K - Valldemossa &amp;amp; Turquoise Coves | Mediterranean Island Escape With Deep House Chill ✨</title>
     <thumb>https://img.youtube.com/vi/V1UXquK7C48/0.jpg</thumb>
     <type>youtube</type>
@@ -399,6 +399,11 @@
     <thumb>https://img.youtube.com/vi/vcXC3tuAzoU/0.jpg</thumb>
     <type>youtube</type>
     <src>vcXC3tuAzoU</src>
+  </media><media>
+    <title>Thailand 4K – Tropical Beaches, Crystal Blue Waters &amp;amp; Drone Footage with Deep House Chill✨</title>
+    <thumb>https://img.youtube.com/vi/ELI16IyyDno/0.jpg</thumb>
+    <type>youtube</type>
+    <src>ELI16IyyDno</src>
   </media><media>
     <title>Punta Cana 4K - Drone Footage | Explore the Jewel of the Dominican Republic with Deep House Chill 🎵</title>
     <thumb>https://img.youtube.com/vi/5-sQK4lYsss/0.jpg</thumb>
