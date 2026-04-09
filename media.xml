@@ -1,14 +1,14 @@
 <mediaList>
   <media>
-    <title>EarthCam Live:  Statue of Liberty</title>
-    <thumb>https://img.youtube.com/vi/cWR8KGKftUw/0.jpg</thumb>
-    <type>youtube</type>
-    <src>cWR8KGKftUw</src>
-  </media><media>
     <title>EarthCam Live:  Sint Maarten (Philipsburg, Sint Maarten)</title>
     <thumb>https://img.youtube.com/vi/EnojhKoPR0c/0.jpg</thumb>
     <type>youtube</type>
     <src>EnojhKoPR0c</src>
+  </media><media>
+    <title>EarthCam Live:  Statue of Liberty</title>
+    <thumb>https://img.youtube.com/vi/cWR8KGKftUw/0.jpg</thumb>
+    <type>youtube</type>
+    <src>cWR8KGKftUw</src>
   </media><media>
     <title>EarthCam Live:  Scrub Island (British Virgin Islands)</title>
     <thumb>https://img.youtube.com/vi/t55kv94nEzc/0.jpg</thumb>
@@ -270,7 +270,7 @@
     <type>youtube</type>
     <src>6AmxX7is4jE</src>
   </media><media>
-    <title>Boat Traffic Live Cam</title>
+    <title>Boat Traffic Live Cam - Newburyport Lighthouse View</title>
     <thumb>https://img.youtube.com/vi/ZQWFvFkjoJs/0.jpg</thumb>
     <type>youtube</type>
     <src>ZQWFvFkjoJs</src>
