@@ -1,19 +1,14 @@
 <mediaList>
   <media>
-    <title>EarthCam Live:  Seaside Heights, NJ - North View</title>
-    <thumb>https://img.youtube.com/vi/ItqwxwA3KsA/0.jpg</thumb>
-    <type>youtube</type>
-    <src>ItqwxwA3KsA</src>
-  </media><media>
     <title>EarthCam Live:  World Trade Center - New York City, NY</title>
     <thumb>https://img.youtube.com/vi/5C9oM7C2Q9k/0.jpg</thumb>
     <type>youtube</type>
     <src>5C9oM7C2Q9k</src>
   </media><media>
-    <title>EarthCam Live:  Seaside Heights, NJ - Amusement Park View</title>
-    <thumb>https://img.youtube.com/vi/LkT88EzqJ-g/0.jpg</thumb>
+    <title>EarthCam Live:  Lake George Arcade (Fun World Arcade - Lake George, NY)</title>
+    <thumb>https://img.youtube.com/vi/qSx5OTo1UVU/0.jpg</thumb>
     <type>youtube</type>
-    <src>LkT88EzqJ-g</src>
+    <src>qSx5OTo1UVU</src>
   </media><media>
     <title>EarthCam Live:  Sint Maarten (Philipsburg, Sint Maarten)</title>
     <thumb>https://img.youtube.com/vi/g7KqJZqF4SM/0.jpg</thumb>
@@ -24,6 +19,11 @@
     <thumb>https://img.youtube.com/vi/58Lx2eLT1ig/0.jpg</thumb>
     <type>youtube</type>
     <src>58Lx2eLT1ig</src>
+  </media><media>
+    <title>EarthCam Live - Western Wall  (Jerusalem, Israel)</title>
+    <thumb>https://img.youtube.com/vi/77akujLn4k8/0.jpg</thumb>
+    <type>youtube</type>
+    <src>77akujLn4k8</src>
   </media><media>
     <title>🔴 Live Cam around the World - Rolling Cam with Chill &amp;amp; Lounge Music</title>
     <thumb>https://img.youtube.com/vi/i10aOLMK76k/0.jpg</thumb>
@@ -60,11 +60,6 @@
     <type>youtube</type>
     <src>HfgIFGbdGJ0</src>
   </media><media>
-    <title>🔴 Beach Live Stream · House of Sanskara · Koh Phangan, Thailand</title>
-    <thumb>https://img.youtube.com/vi/FBYUkqutqzE/0.jpg</thumb>
-    <type>youtube</type>
-    <src>FBYUkqutqzE</src>
-  </media><media>
     <title>🔴 Mersea Restaurant LIVE Bay View · San Francisco Skyline, Golden Gate &amp;amp; Luxury Waterfront 🌉</title>
     <thumb>https://img.youtube.com/vi/BSWhGNXxT9A/0.jpg</thumb>
     <type>youtube</type>
@@ -74,6 +69,11 @@
     <thumb>https://img.youtube.com/vi/EO_1LWqsCNE/0.jpg</thumb>
     <type>youtube</type>
     <src>EO_1LWqsCNE</src>
+  </media><media>
+    <title>🔴 Beach Live Stream · House of Sanskara · Koh Phangan, Thailand</title>
+    <thumb>https://img.youtube.com/vi/FBYUkqutqzE/0.jpg</thumb>
+    <type>youtube</type>
+    <src>FBYUkqutqzE</src>
   </media><media>
     <title>👑🅻🅸🆅🅴👑United Kingdom Seaside Webcams Tour🏖️Scotland Wales Cornwall Shores🌅England👑British Coast LIVE</title>
     <thumb>https://img.youtube.com/vi/K2gBg7jjhIc/0.jpg</thumb>
@@ -160,31 +160,6 @@
     <type>youtube</type>
     <src>2tdLjgqv-Qk</src>
   </media><media>
-    <title>Times Square: Duffy Square 4K View Live</title>
-    <thumb>https://img.youtube.com/vi/iiBTWU2FyFo/0.jpg</thumb>
-    <type>youtube</type>
-    <src>iiBTWU2FyFo</src>
-  </media><media>
-    <title>Times Square: 1560 Broadway View Live</title>
-    <thumb>https://img.youtube.com/vi/4qyZLflp-sI/0.jpg</thumb>
-    <type>youtube</type>
-    <src>4qyZLflp-sI</src>
-  </media><media>
-    <title>Times Square: Express View Live</title>
-    <thumb>https://img.youtube.com/vi/a9J1OP_x5Rg/0.jpg</thumb>
-    <type>youtube</type>
-    <src>a9J1OP_x5Rg</src>
-  </media><media>
-    <title>Times Square: 1515 Broadway View Live</title>
-    <thumb>https://img.youtube.com/vi/VSSHILnbfyw/0.jpg</thumb>
-    <type>youtube</type>
-    <src>VSSHILnbfyw</src>
-  </media><media>
-    <title>Times Square: 1540 Broadway View Live</title>
-    <thumb>https://img.youtube.com/vi/nVsDt8AvfCU/0.jpg</thumb>
-    <type>youtube</type>
-    <src>nVsDt8AvfCU</src>
-  </media><media>
     <title>Live Stream — Public Square, Watertown NY — Jake Johnson Properties</title>
     <thumb>https://img.youtube.com/vi/Zz9hMrxl20I/0.jpg</thumb>
     <type>youtube</type>
@@ -195,40 +170,15 @@
     <type>youtube</type>
     <src>pJFDQ_wP4mk</src>
   </media><media>
-    <title>Live Stream — Dry Hill Ski Area, Watertown NY</title>
-    <thumb>https://img.youtube.com/vi/d3QkaaLkUHg/0.jpg</thumb>
-    <type>youtube</type>
-    <src>d3QkaaLkUHg</src>
-  </media><media>
     <title>Live Stream — Public Square, Watertown NY</title>
     <thumb>https://img.youtube.com/vi/vaDjY-5Ymxc/0.jpg</thumb>
     <type>youtube</type>
     <src>vaDjY-5Ymxc</src>
   </media><media>
-    <title>Hamptons.com - LIVE! 4K Main Street, Sag Harbor Village, New York</title>
-    <thumb>https://img.youtube.com/vi/sxZxz0OPoh0/0.jpg</thumb>
+    <title>Live Stream — Dry Hill Ski Area, Watertown NY</title>
+    <thumb>https://img.youtube.com/vi/d3QkaaLkUHg/0.jpg</thumb>
     <type>youtube</type>
-    <src>sxZxz0OPoh0</src>
-  </media><media>
-    <title>Hamptons.com - LIVE! 4K Sunset Beach &amp;amp; Inlet, Montauk, New York</title>
-    <thumb>https://img.youtube.com/vi/QmRpHNklGxE/0.jpg</thumb>
-    <type>youtube</type>
-    <src>QmRpHNklGxE</src>
-  </media><media>
-    <title>Hamptons.com - LIVE! 4K Main Beach, East Hampton Village, New York - Hamptons Surf Report</title>
-    <thumb>https://img.youtube.com/vi/yLU8DNeXXmc/0.jpg</thumb>
-    <type>youtube</type>
-    <src>yLU8DNeXXmc</src>
-  </media><media>
-    <title>Hamptons.com - LIVE SURF CAM! Ponquogue Beach Pavilion, Hampton Bays, New York</title>
-    <thumb>https://img.youtube.com/vi/XL4p6oiP9zs/0.jpg</thumb>
-    <type>youtube</type>
-    <src>XL4p6oiP9zs</src>
-  </media><media>
-    <title>Hamptons.com - LIVE! Coopers Beach, Southampton Village, New York - Rated #2 Beach In the Country !</title>
-    <thumb>https://img.youtube.com/vi/4cDBr4IZznY/0.jpg</thumb>
-    <type>youtube</type>
-    <src>4cDBr4IZznY</src>
+    <src>d3QkaaLkUHg</src>
   </media><media>
     <title>Live Cameras Around the World - Music, Timelapse, Travel</title>
     <thumb>https://img.youtube.com/vi/AiNCbGzabVo/0.jpg</thumb>
@@ -255,71 +205,6 @@
     <type>youtube</type>
     <src>3w3tepBwtRI</src>
   </media><media>
-    <title>🔴 Mersea Restaurant LIVE Bay View · San Francisco Skyline, Golden Gate &amp;amp; Luxury Waterfront 🌉</title>
-    <thumb>https://img.youtube.com/vi/BSWhGNXxT9A/0.jpg</thumb>
-    <type>youtube</type>
-    <src>BSWhGNXxT9A</src>
-  </media><media>
-    <title>🔴 Los Angeles Live Cam · Venice Beach · Venice V Hotel · Live Camera Stream</title>
-    <thumb>https://img.youtube.com/vi/EO_1LWqsCNE/0.jpg</thumb>
-    <type>youtube</type>
-    <src>EO_1LWqsCNE</src>
-  </media><media>
-    <title>🔴 Beach Live Stream · House of Sanskara · Koh Phangan, Thailand</title>
-    <thumb>https://img.youtube.com/vi/FBYUkqutqzE/0.jpg</thumb>
-    <type>youtube</type>
-    <src>FBYUkqutqzE</src>
-  </media><media>
-    <title>🔴 Live Cam around the World - Rolling Cam with Chill &amp;amp; Lounge Music</title>
-    <thumb>https://img.youtube.com/vi/i10aOLMK76k/0.jpg</thumb>
-    <type>youtube</type>
-    <src>i10aOLMK76k</src>
-  </media><media>
-    <title>🔴 LIVE 24/7  Rolling Cam Venice - Live Cam in Venice Italy - Livecam en direct #venice</title>
-    <thumb>https://img.youtube.com/vi/a1mcaV3Sf9U/0.jpg</thumb>
-    <type>youtube</type>
-    <src>a1mcaV3Sf9U</src>
-  </media><media>
-    <title>🔴 ♫ Live Piano Music - Live 24/7: focus music, study music, relaxing music ♫</title>
-    <thumb>https://img.youtube.com/vi/I6o7UWEaSbw/0.jpg</thumb>
-    <type>youtube</type>
-    <src>I6o7UWEaSbw</src>
-  </media><media>
-    <title>🔴 4K Live Cam - Chioggia Sottomarina - Live Streaming from Hotel Park Chioggia (Venice) - 4K</title>
-    <thumb>https://img.youtube.com/vi/IByOruhl2ik/0.jpg</thumb>
-    <type>youtube</type>
-    <src>IByOruhl2ik</src>
-  </media><media>
-    <title>Venice Italy Live - Live Streaming of Teatro La Fenice area</title>
-    <thumb>https://img.youtube.com/vi/C9EKnYzYt9o/0.jpg</thumb>
-    <type>youtube</type>
-    <src>C9EKnYzYt9o</src>
-  </media><media>
-    <title>Market Square West Live Cam</title>
-    <thumb>https://img.youtube.com/vi/VsuSbXPN93o/0.jpg</thumb>
-    <type>youtube</type>
-    <src>VsuSbXPN93o</src>
-  </media><media>
-    <title>Inn Street North Live Cam</title>
-    <thumb>https://img.youtube.com/vi/WkWyOQ6kQ1M/0.jpg</thumb>
-    <type>youtube</type>
-    <src>WkWyOQ6kQ1M</src>
-  </media><media>
-    <title>Plum Island Point Live Cam</title>
-    <thumb>https://img.youtube.com/vi/pB_QZmfKZd0/0.jpg</thumb>
-    <type>youtube</type>
-    <src>pB_QZmfKZd0</src>
-  </media><media>
-    <title>Boat Traffic Live Cam - Newburyport Lighthouse View</title>
-    <thumb>https://img.youtube.com/vi/ZQWFvFkjoJs/0.jpg</thumb>
-    <type>youtube</type>
-    <src>ZQWFvFkjoJs</src>
-  </media><media>
-    <title>Mouth of the Merrimack Live Cam</title>
-    <thumb>https://img.youtube.com/vi/L1eldowVJ1Y/0.jpg</thumb>
-    <type>youtube</type>
-    <src>L1eldowVJ1Y</src>
-  </media><media>
     <title>🔴 Live Camera Stream | Bondi Aussie Bar &amp;amp; Grill | Chaweng | Koh Samui | Thailand | 2160p 4K</title>
     <thumb>https://img.youtube.com/vi/VR-x3HdhKLQ/0.jpg</thumb>
     <type>youtube</type>
@@ -345,104 +230,29 @@
     <type>youtube</type>
     <src>OBJ5Q0lWbqk</src>
   </media><media>
-    <title>LIVE CAM Nevskiy avenue St. Petersburg Russia. Невский пр. Санкт-Петербург, Гостиный двор</title>
-    <thumb>https://img.youtube.com/vi/w_Dg2vC0tUE/0.jpg</thumb>
+    <title>🕹 LIVE CAMERA PTZ Amazing St. Petersburg Russia Live Chat. Невский пейзаж Санкт-Петербург живой чат</title>
+    <thumb>https://img.youtube.com/vi/dhVzWNos718/0.jpg</thumb>
     <type>youtube</type>
-    <src>w_Dg2vC0tUE</src>
+    <src>dhVzWNos718</src>
   </media><media>
     <title>LIVE Nevskiy avenue St. Petersburg Russia Anichkov Palace Невский пр. Аничков дворец Санкт-Петербург</title>
     <thumb>https://img.youtube.com/vi/fUsJZTHeZn4/0.jpg</thumb>
     <type>youtube</type>
     <src>fUsJZTHeZn4</src>
   </media><media>
-    <title>🕹 LIVE CAMERA PTZ Amazing St. Petersburg Russia Live Chat. Невский пейзаж Санкт-Петербург живой чат</title>
-    <thumb>https://img.youtube.com/vi/dhVzWNos718/0.jpg</thumb>
+    <title>LIVE CAM Nevskiy avenue St. Petersburg Russia. Невский пр. Санкт-Петербург, Гостиный двор</title>
+    <thumb>https://img.youtube.com/vi/w_Dg2vC0tUE/0.jpg</thumb>
     <type>youtube</type>
-    <src>dhVzWNos718</src>
+    <src>w_Dg2vC0tUE</src>
   </media><media>
-    <title>🕹 LIVE CAMERA Russia Saint Petersburg interactive PTZ control real sound Moscow time online</title>
-    <thumb>https://img.youtube.com/vi/VhGdKCs5KIA/0.jpg</thumb>
+    <title>4K video LIVE CAMERA Saint Petersburg, Russia. Palace Bridge Дворцовый мост, навигация на Неве</title>
+    <thumb>https://img.youtube.com/vi/CjtIYbmVfck/0.jpg</thumb>
     <type>youtube</type>
-    <src>VhGdKCs5KIA</src>
+    <src>CjtIYbmVfck</src>
   </media><media>
-    <title>LIVE CAM Zagorodny avenue, St. Petersburg. Веб-камера онлайн Загородный проспект, Санкт-Петербург</title>
-    <thumb>https://img.youtube.com/vi/h1wly909BYw/0.jpg</thumb>
+    <title>LIVE CAMERA Griboedov Canal St. Petersburg Russia. Канал Грибоедова Санкт-Петербург</title>
+    <thumb>https://img.youtube.com/vi/zv0-krx4Kmg/0.jpg</thumb>
     <type>youtube</type>
-    <src>h1wly909BYw</src>
-  </media><media>
-    <title>🎄 4K CHRISTMAS SERENITY | Scenic Relaxation with Timeless Holiday Melodies 🎅</title>
-    <thumb>https://img.youtube.com/vi/oYTxGDUQfgI/0.jpg</thumb>
-    <type>youtube</type>
-    <src>oYTxGDUQfgI</src>
-  </media><media>
-    <title>Most Beautiful Cities In The World 8K Video Ultra HD With Soft Piano Music - 60 FPS - 8K Nature Film</title>
-    <thumb>https://img.youtube.com/vi/TZikBxNaaQk/0.jpg</thumb>
-    <type>youtube</type>
-    <src>TZikBxNaaQk</src>
-  </media><media>
-    <title>PARADISE 8K Video Ultra HD With Soft Piano Music - 60 FPS - 8K Nature Film</title>
-    <thumb>https://img.youtube.com/vi/Tq117lqpr-A/0.jpg</thumb>
-    <type>youtube</type>
-    <src>Tq117lqpr-A</src>
-  </media><media>
-    <title>5 Most Beautiful and Unbelievable Cities in The World | 4K Travel Guide</title>
-    <thumb>https://img.youtube.com/vi/_q0yBz6h4Lg/0.jpg</thumb>
-    <type>youtube</type>
-    <src>_q0yBz6h4Lg</src>
-  </media><media>
-    <title>🔥 Cozy Fireplace 4K (LIVE 24/7). Fireplace with Crackling Fire Sounds.</title>
-    <thumb>https://img.youtube.com/vi/LaPe30TunR0/0.jpg</thumb>
-    <type>youtube</type>
-    <src>LaPe30TunR0</src>
-  </media><media>
-    <title>🔴 PHILIPPINES Live camera Restaurant Servery, Lyn&amp;#39;s Sisig Beef BBQ, Davao City #philippines</title>
-    <thumb>https://img.youtube.com/vi/WSCyQJH_5TU/0.jpg</thumb>
-    <type>youtube</type>
-    <src>WSCyQJH_5TU</src>
-  </media><media>
-    <title>🔴 PHILIPPINES Live camera Majah &amp;amp; Carolina street food sellers, Agdao, Davao City #philippines</title>
-    <thumb>https://img.youtube.com/vi/z9O-XeUraDs/0.jpg</thumb>
-    <type>youtube</type>
-    <src>z9O-XeUraDs</src>
-  </media><media>
-    <title>🔴 PHILIPPINES Live camera inside Lyn&amp;#39;s Sisig Beef BBQ Restaurant, Davao City #philippines</title>
-    <thumb>https://img.youtube.com/vi/8V-N6xSL_X8/0.jpg</thumb>
-    <type>youtube</type>
-    <src>8V-N6xSL_X8</src>
-  </media><media>
-    <title>🔴 PHILIPPINES  Live camera outside Lyn&amp;#39;s Restaurant looking Roxas Avenue, Davao City #philippines</title>
-    <thumb>https://img.youtube.com/vi/MncLrf2LsT8/0.jpg</thumb>
-    <type>youtube</type>
-    <src>MncLrf2LsT8</src>
-  </media><media>
-    <title>🔴 PHILIPPINES Live camera Inside Cynthia Store, Agdao, Davao City #philippines</title>
-    <thumb>https://img.youtube.com/vi/d17IkvT4EkQ/0.jpg</thumb>
-    <type>youtube</type>
-    <src>d17IkvT4EkQ</src>
-  </media><media>
-    <title>Italy 4K | Explore Hidden Gems and Breathtaking Landscapes With Deep House Chill #2</title>
-    <thumb>https://img.youtube.com/vi/KCnpSuHEp6s/0.jpg</thumb>
-    <type>youtube</type>
-    <src>KCnpSuHEp6s</src>
-  </media><media>
-    <title>Thailand 4K – Tropical Beaches, Crystal Blue Waters &amp;amp; Drone Footage with Deep House Chill</title>
-    <thumb>https://img.youtube.com/vi/b8ZVmdJCZhI/0.jpg</thumb>
-    <type>youtube</type>
-    <src>b8ZVmdJCZhI</src>
-  </media><media>
-    <title>Malibu 4K 🌟 Coastal Symphony of Nature’s Finest Creations With Deep House Chill</title>
-    <thumb>https://img.youtube.com/vi/OVaN69nS1XI/0.jpg</thumb>
-    <type>youtube</type>
-    <src>OVaN69nS1XI</src>
-  </media><media>
-    <title>Relaxing Music The Best 4K Sea Animals for Relaxation ♫ ☆ SEA TURTLES Swimming ✰</title>
-    <thumb>https://img.youtube.com/vi/vlSosN0V99I/0.jpg</thumb>
-    <type>youtube</type>
-    <src>vlSosN0V99I</src>
-  </media><media>
-    <title>Dubai 4K – Aerial Views of Iconic Skyscrapers &amp;amp; Desert Landscapes With Deep House Chill</title>
-    <thumb>https://img.youtube.com/vi/fgdtUoF7Rl4/0.jpg</thumb>
-    <type>youtube</type>
-    <src>fgdtUoF7Rl4</src>
+    <src>zv0-krx4Kmg</src>
   </media>
 </mediaList>
