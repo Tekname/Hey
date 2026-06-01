@@ -1,10 +1,5 @@
 <mediaList>
   <media>
-    <title>EarthCam Live:  Times Square Crossroads (New York City, NY)</title>
-    <thumb>https://img.youtube.com/vi/z-jYdOIKcTQ/0.jpg</thumb>
-    <type>youtube</type>
-    <src>z-jYdOIKcTQ</src>
-  </media><media>
     <title>EarthCam Live:  Wildwoods Cam (Wildwood, NJ)</title>
     <thumb>https://img.youtube.com/vi/58Lx2eLT1ig/0.jpg</thumb>
     <type>youtube</type>
@@ -14,6 +9,11 @@
     <thumb>https://img.youtube.com/vi/qx7gry390YA/0.jpg</thumb>
     <type>youtube</type>
     <src>qx7gry390YA</src>
+  </media><media>
+    <title>EarthCam Live:  Times Square Crossroads (New York City, NY)</title>
+    <thumb>https://img.youtube.com/vi/z-jYdOIKcTQ/0.jpg</thumb>
+    <type>youtube</type>
+    <src>z-jYdOIKcTQ</src>
   </media><media>
     <title>EarthCam Live - Western Wall  (Jerusalem, Israel)</title>
     <thumb>https://img.youtube.com/vi/77akujLn4k8/0.jpg</thumb>
@@ -25,6 +25,11 @@
     <type>youtube</type>
     <src>M3EYAY2MftI</src>
   </media><media>
+    <title>🔴 Live Cam around the World - Rolling Cam with Chill &amp;amp; Lounge Music</title>
+    <thumb>https://img.youtube.com/vi/i10aOLMK76k/0.jpg</thumb>
+    <type>youtube</type>
+    <src>i10aOLMK76k</src>
+  </media><media>
     <title>🔴 LIVE 24/7  Rolling Cam Venice - Live Cam in Venice Italy - Livecam en direct #venice</title>
     <thumb>https://img.youtube.com/vi/a1mcaV3Sf9U/0.jpg</thumb>
     <type>youtube</type>
@@ -34,11 +39,6 @@
     <thumb>https://img.youtube.com/vi/IByOruhl2ik/0.jpg</thumb>
     <type>youtube</type>
     <src>IByOruhl2ik</src>
-  </media><media>
-    <title>🔴 Live Cam around the World - Rolling Cam with Chill &amp;amp; Lounge Music</title>
-    <thumb>https://img.youtube.com/vi/i10aOLMK76k/0.jpg</thumb>
-    <type>youtube</type>
-    <src>i10aOLMK76k</src>
   </media><media>
     <title>🔴 4K View of the Ponte delle Guglie and Strada Nova - Live Stream from Hotel Marte Venice</title>
     <thumb>https://img.youtube.com/vi/GQbUdGhHw_o/0.jpg</thumb>
@@ -135,11 +135,6 @@
     <type>youtube</type>
     <src>61pi8UjLOlo</src>
   </media><media>
-    <title>Midway Airport | Chicago, IL USA | StreamTime LIVE  4K</title>
-    <thumb>https://img.youtube.com/vi/67BCsiW-1Io/0.jpg</thumb>
-    <type>youtube</type>
-    <src>67BCsiW-1Io</src>
-  </media><media>
     <title>Marine City, Michigan, USA | StreamTime LIVE</title>
     <thumb>https://img.youtube.com/vi/F_bENs4GV24/0.jpg</thumb>
     <type>youtube</type>
@@ -149,6 +144,11 @@
     <thumb>https://img.youtube.com/vi/TkY4BzCikQ4/0.jpg</thumb>
     <type>youtube</type>
     <src>TkY4BzCikQ4</src>
+  </media><media>
+    <title>Port Huron, Michigan USA | StreamTime LIVE</title>
+    <thumb>https://img.youtube.com/vi/AwP_Q6IGwFs/0.jpg</thumb>
+    <type>youtube</type>
+    <src>AwP_Q6IGwFs</src>
   </media><media>
     <title>Live NYC Brooklyn Bridge &amp;amp; Manhattan cam</title>
     <thumb>https://img.youtube.com/vi/FSIyNhML3q0/0.jpg</thumb>
@@ -220,20 +220,10 @@
     <type>youtube</type>
     <src>4cDBr4IZznY</src>
   </media><media>
-    <title>Hamptons.com - LIVE! Sag Harbor Bay, Sag Harbor, New York (BAY CAM)</title>
-    <thumb>https://img.youtube.com/vi/vGLm--kTC50/0.jpg</thumb>
+    <title>Hamptons.com - LIVE! Tiana Beach, Hampton Bays, New York</title>
+    <thumb>https://img.youtube.com/vi/63Bi7YXdUAY/0.jpg</thumb>
     <type>youtube</type>
-    <src>vGLm--kTC50</src>
-  </media><media>
-    <title>Live Outdoor Patio Cam 1 from Portsmouth, New Hampshire - Strawbery Banke</title>
-    <thumb>https://img.youtube.com/vi/PoZ1Hy7PQig/0.jpg</thumb>
-    <type>youtube</type>
-    <src>PoZ1Hy7PQig</src>
-  </media><media>
-    <title>Live from Portsmouth, New Hampshire - Strawbery Banke Museum</title>
-    <thumb>https://img.youtube.com/vi/bys52kM3Nzc/0.jpg</thumb>
-    <type>youtube</type>
-    <src>bys52kM3Nzc</src>
+    <src>63Bi7YXdUAY</src>
   </media><media>
     <title>Live Cameras Around the World - Music, Timelapse, Travel</title>
     <thumb>https://img.youtube.com/vi/AiNCbGzabVo/0.jpg</thumb>
@@ -245,10 +235,20 @@
     <type>youtube</type>
     <src>x_ruIH2UmjQ</src>
   </media><media>
-    <title>Chester Railway Station CSX &amp;amp; Amtrak - LIVE</title>
-    <thumb>https://img.youtube.com/vi/wuPEBUNnATE/0.jpg</thumb>
+    <title>The Dunn Compound - Mooselookmeguntic Lake, Maine - Live Cam</title>
+    <thumb>https://img.youtube.com/vi/MOBWD8WBiD4/0.jpg</thumb>
     <type>youtube</type>
-    <src>wuPEBUNnATE</src>
+    <src>MOBWD8WBiD4</src>
+  </media><media>
+    <title>North Conway, New Hampshire - LIVE CAM</title>
+    <thumb>https://img.youtube.com/vi/H8bFFw-0ZQE/0.jpg</thumb>
+    <type>youtube</type>
+    <src>H8bFFw-0ZQE</src>
+  </media><media>
+    <title>Live Outdoor Patio Cam 1 from Portsmouth, New Hampshire - Strawbery Banke</title>
+    <thumb>https://img.youtube.com/vi/PoZ1Hy7PQig/0.jpg</thumb>
+    <type>youtube</type>
+    <src>PoZ1Hy7PQig</src>
   </media><media>
     <title>🔴 Mersea Restaurant LIVE Bay View · San Francisco Skyline, Golden Gate &amp;amp; Luxury Waterfront 🌉</title>
     <thumb>https://img.youtube.com/vi/BSWhGNXxT9A/0.jpg</thumb>
@@ -265,6 +265,11 @@
     <type>youtube</type>
     <src>FBYUkqutqzE</src>
   </media><media>
+    <title>🔴 Live Cam around the World - Rolling Cam with Chill &amp;amp; Lounge Music</title>
+    <thumb>https://img.youtube.com/vi/i10aOLMK76k/0.jpg</thumb>
+    <type>youtube</type>
+    <src>i10aOLMK76k</src>
+  </media><media>
     <title>🔴 LIVE 24/7  Rolling Cam Venice - Live Cam in Venice Italy - Livecam en direct #venice</title>
     <thumb>https://img.youtube.com/vi/a1mcaV3Sf9U/0.jpg</thumb>
     <type>youtube</type>
@@ -274,11 +279,6 @@
     <thumb>https://img.youtube.com/vi/IByOruhl2ik/0.jpg</thumb>
     <type>youtube</type>
     <src>IByOruhl2ik</src>
-  </media><media>
-    <title>🔴 Live Cam around the World - Rolling Cam with Chill &amp;amp; Lounge Music</title>
-    <thumb>https://img.youtube.com/vi/i10aOLMK76k/0.jpg</thumb>
-    <type>youtube</type>
-    <src>i10aOLMK76k</src>
   </media><media>
     <title>🔴 4K View of the Ponte delle Guglie and Strada Nova - Live Stream from Hotel Marte Venice</title>
     <thumb>https://img.youtube.com/vi/GQbUdGhHw_o/0.jpg</thumb>
@@ -290,11 +290,6 @@
     <type>youtube</type>
     <src>gzgrofStPJ0</src>
   </media><media>
-    <title>Market Square West Live Cam</title>
-    <thumb>https://img.youtube.com/vi/VsuSbXPN93o/0.jpg</thumb>
-    <type>youtube</type>
-    <src>VsuSbXPN93o</src>
-  </media><media>
     <title>Inn Street North Live Cam</title>
     <thumb>https://img.youtube.com/vi/WkWyOQ6kQ1M/0.jpg</thumb>
     <type>youtube</type>
@@ -305,15 +300,20 @@
     <type>youtube</type>
     <src>pB_QZmfKZd0</src>
   </media><media>
-    <title>Boat Traffic Live Cam - Newburyport Lighthouse View</title>
-    <thumb>https://img.youtube.com/vi/ZQWFvFkjoJs/0.jpg</thumb>
-    <type>youtube</type>
-    <src>ZQWFvFkjoJs</src>
-  </media><media>
     <title>State Street South Live Cam - Newburyport Live Stream</title>
     <thumb>https://img.youtube.com/vi/WkjZg22TBfQ/0.jpg</thumb>
     <type>youtube</type>
     <src>WkjZg22TBfQ</src>
+  </media><media>
+    <title>Mouth of the Merrimack Live Cam</title>
+    <thumb>https://img.youtube.com/vi/L1eldowVJ1Y/0.jpg</thumb>
+    <type>youtube</type>
+    <src>L1eldowVJ1Y</src>
+  </media><media>
+    <title>Riverfront Boating Live Cam - Newburyport Waterfront</title>
+    <thumb>https://img.youtube.com/vi/IMUXzqo75Sk/0.jpg</thumb>
+    <type>youtube</type>
+    <src>IMUXzqo75Sk</src>
   </media><media>
     <title>🔴 Live Camera Stream | Bondi Aussie Bar &amp;amp; Grill | Chaweng | Koh Samui | Thailand | 2160p 4K</title>
     <thumb>https://img.youtube.com/vi/VR-x3HdhKLQ/0.jpg</thumb>
@@ -375,20 +375,25 @@
     <type>youtube</type>
     <src>oYTxGDUQfgI</src>
   </media><media>
-    <title>PARADISE 8K Video Ultra HD With Soft Piano Music - 60 FPS - 8K Nature Film</title>
-    <thumb>https://img.youtube.com/vi/Tq117lqpr-A/0.jpg</thumb>
-    <type>youtube</type>
-    <src>Tq117lqpr-A</src>
-  </media><media>
     <title>Most Beautiful Cities In The World 8K Video Ultra HD With Soft Piano Music - 60 FPS - 8K Nature Film</title>
     <thumb>https://img.youtube.com/vi/TZikBxNaaQk/0.jpg</thumb>
     <type>youtube</type>
     <src>TZikBxNaaQk</src>
   </media><media>
-    <title>🔥 Cozy Fireplace 4K (LIVE 24/7). Fireplace with Crackling Fire Sounds.</title>
-    <thumb>https://img.youtube.com/vi/LaPe30TunR0/0.jpg</thumb>
+    <title>PARADISE 8K Video Ultra HD With Soft Piano Music - 60 FPS - 8K Nature Film</title>
+    <thumb>https://img.youtube.com/vi/Tq117lqpr-A/0.jpg</thumb>
     <type>youtube</type>
-    <src>LaPe30TunR0</src>
+    <src>Tq117lqpr-A</src>
+  </media><media>
+    <title>5 Most Beautiful and Unbelievable Cities in The World | 4K Travel Guide</title>
+    <thumb>https://img.youtube.com/vi/_q0yBz6h4Lg/0.jpg</thumb>
+    <type>youtube</type>
+    <src>_q0yBz6h4Lg</src>
+  </media><media>
+    <title>🔴 PHILIPPINES Live camera, Bankerohan Market area, Davao City #philippines</title>
+    <thumb>https://img.youtube.com/vi/2kp0cjl7TPc/0.jpg</thumb>
+    <type>youtube</type>
+    <src>2kp0cjl7TPc</src>
   </media><media>
     <title>🔴 PHILIPPINES Live camera inside Lyn&amp;#39;s Sisig Beef BBQ Restaurant, Davao City #philippines</title>
     <thumb>https://img.youtube.com/vi/8V-N6xSL_X8/0.jpg</thumb>
@@ -409,11 +414,6 @@
     <thumb>https://img.youtube.com/vi/KFWHAT9N3Us/0.jpg</thumb>
     <type>youtube</type>
     <src>KFWHAT9N3Us</src>
-  </media><media>
-    <title>🔴 PHILIPPINES Live camera Inside Cynthia Store, Agdao, Davao City #philippines</title>
-    <thumb>https://img.youtube.com/vi/d17IkvT4EkQ/0.jpg</thumb>
-    <type>youtube</type>
-    <src>d17IkvT4EkQ</src>
   </media><media>
     <title>Bora Bora 4K – Discover Paradise Beaches and Crystal Blue Lagoons With Deep House Chill 🎵</title>
     <thumb>https://img.youtube.com/vi/SdkFSnQc_QA/0.jpg</thumb>
