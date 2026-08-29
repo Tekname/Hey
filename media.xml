@@ -1,10 +1,5 @@
 <mediaList>
   <media>
-    <title>EarthCam Live:  Abbey Road Crossing (London, England)</title>
-    <thumb>https://img.youtube.com/vi/zMCea32gpmg/0.jpg</thumb>
-    <type>youtube</type>
-    <src>zMCea32gpmg</src>
-  </media><media>
     <title>EarthCam Live:  Hideaways Camp Kuzuma, African Watering Hole (Chobe, Botswana)</title>
     <thumb>https://img.youtube.com/vi/F2PYgMegiuY/0.jpg</thumb>
     <type>youtube</type>
@@ -15,15 +10,20 @@
     <type>youtube</type>
     <src>tErYxn2UM5Y</src>
   </media><media>
-    <title>EarthCam Live:  Midway Airport (Chicago, IL)</title>
-    <thumb>https://img.youtube.com/vi/kyc67BYqevk/0.jpg</thumb>
-    <type>youtube</type>
-    <src>kyc67BYqevk</src>
-  </media><media>
     <title>EarthCam Live:  Tamariu, Spain</title>
     <thumb>https://img.youtube.com/vi/fTh5ssC1z-c/0.jpg</thumb>
     <type>youtube</type>
     <src>fTh5ssC1z-c</src>
+  </media><media>
+    <title>EarthCam Live:  Anglins Pier (Lauderdale-By-The-Sea, FL)</title>
+    <thumb>https://img.youtube.com/vi/tAdTOOsrZBQ/0.jpg</thumb>
+    <type>youtube</type>
+    <src>tAdTOOsrZBQ</src>
+  </media><media>
+    <title>EarthCam Live:  Sanibel Island</title>
+    <thumb>https://img.youtube.com/vi/4LTSTw4jnZc/0.jpg</thumb>
+    <type>youtube</type>
+    <src>4LTSTw4jnZc</src>
   </media><media>
     <title>🔴 Bagni Miki - Chioggia Sottomarina (Venezia) - Live Full HD</title>
     <thumb>https://img.youtube.com/vi/3LGl860wEaY/0.jpg</thumb>
@@ -45,10 +45,10 @@
     <type>youtube</type>
     <src>GQbUdGhHw_o</src>
   </media><media>
-    <title>🔴 Spectacular View of Grand Canal - Live view from Hotel San Cassiano</title>
-    <thumb>https://img.youtube.com/vi/tdE-Uu87XmE/0.jpg</thumb>
+    <title>🔴 4k Venice Live Cam - Laguna of Venice with 4K Cam PTZ 30x - Stream from Cantieri Biasin</title>
+    <thumb>https://img.youtube.com/vi/Ts4cAVmJrWE/0.jpg</thumb>
     <type>youtube</type>
-    <src>tdE-Uu87XmE</src>
+    <src>Ts4cAVmJrWE</src>
   </media><media>
     <title>The World Live - Original Version | earthTV®</title>
     <thumb>https://img.youtube.com/vi/HfgIFGbdGJ0/0.jpg</thumb>
@@ -80,11 +80,6 @@
     <type>youtube</type>
     <src>KJNbhGO-OjM</src>
   </media><media>
-    <title>🏖️🅰🅾🆅🅸🆅🅾🏖️South America Webcam Tour🇧🇷🇦🇷🇨🇱🇨🇴🇵🇪🇺🇾🇵🇾Beaches, Cities, Travel, Weather &amp;amp; Maps📍🌡️LO-FI</title>
-    <thumb>https://img.youtube.com/vi/RNas-XKO4jA/0.jpg</thumb>
-    <type>youtube</type>
-    <src>RNas-XKO4jA</src>
-  </media><media>
     <title>🌅🅻🅸🆅🅴🌅Cornwall Coast Webcams Tour🌊Harbour &amp;amp; Beach🌪️England 🇬🇧 Waves🌬️Wind St Ives,Marazion,Newquay</title>
     <thumb>https://img.youtube.com/vi/9RuV9Cc-LSA/0.jpg</thumb>
     <type>youtube</type>
@@ -94,6 +89,11 @@
     <thumb>https://img.youtube.com/vi/zmv6NPLg91U/0.jpg</thumb>
     <type>youtube</type>
     <src>zmv6NPLg91U</src>
+  </media><media>
+    <title>🏖️🅻🅸🆅🅴🏖️Europe Beach Webcam Tour🏝️Real-Time🌊Water Temp🌡️Weather🇬🇷🇪🇸🇮🇹🇫🇷🇭🇷🇵🇹🇬🇧🇷🇴🇵🇱🇹🇷🇳🇱🇧🇪Benidorm Calp</title>
+    <thumb>https://img.youtube.com/vi/YUe13IPFvRI/0.jpg</thumb>
+    <type>youtube</type>
+    <src>YUe13IPFvRI</src>
   </media><media>
     <title>👑🅻🅸🆅🅴👑United Kingdom Seaside Webcams Tour🏖️Scotland Wales Cornwall Shores🌅England👑British Coast LIVE</title>
     <thumb>https://img.youtube.com/vi/K2gBg7jjhIc/0.jpg</thumb>
@@ -170,15 +170,15 @@
     <type>youtube</type>
     <src>VXo0VqVcbK4</src>
   </media><media>
-    <title>Times Square: 1515 Broadway View Live</title>
-    <thumb>https://img.youtube.com/vi/X4P3JK-pIxo/0.jpg</thumb>
-    <type>youtube</type>
-    <src>X4P3JK-pIxo</src>
-  </media><media>
     <title>Times Square: Duffy Square 4K View Live</title>
     <thumb>https://img.youtube.com/vi/pv-2pVViNwc/0.jpg</thumb>
     <type>youtube</type>
     <src>pv-2pVViNwc</src>
+  </media><media>
+    <title>Times Square: 1515 Broadway View Live</title>
+    <thumb>https://img.youtube.com/vi/X4P3JK-pIxo/0.jpg</thumb>
+    <type>youtube</type>
+    <src>X4P3JK-pIxo</src>
   </media><media>
     <title>Live Stream — Public Square, Watertown NY — Jake Johnson Properties</title>
     <thumb>https://img.youtube.com/vi/Zz9hMrxl20I/0.jpg</thumb>
@@ -230,15 +230,10 @@
     <type>youtube</type>
     <src>rYOLAEd-uYw</src>
   </media><media>
-    <title>Sebec Lake, Maine - Live - Granny&amp;#39;s Wine Cellar at Merrill&amp;#39;s Marina</title>
-    <thumb>https://img.youtube.com/vi/1ljVMbgUEbM/0.jpg</thumb>
+    <title>Fryeburg, Maine - 302 West</title>
+    <thumb>https://img.youtube.com/vi/QcNfT_tvkyI/0.jpg</thumb>
     <type>youtube</type>
-    <src>1ljVMbgUEbM</src>
-  </media><media>
-    <title>Moosehead Lake at Rockwood, Maine - The Birches Resort,  CAM 2</title>
-    <thumb>https://img.youtube.com/vi/xY64buYp9lc/0.jpg</thumb>
-    <type>youtube</type>
-    <src>xY64buYp9lc</src>
+    <src>QcNfT_tvkyI</src>
   </media><media>
     <title>Live Cameras Around the World - Music, Timelapse, Travel</title>
     <thumb>https://img.youtube.com/vi/AiNCbGzabVo/0.jpg</thumb>
@@ -249,6 +244,11 @@
     <thumb>https://img.youtube.com/vi/x_ruIH2UmjQ/0.jpg</thumb>
     <type>youtube</type>
     <src>x_ruIH2UmjQ</src>
+  </media><media>
+    <title>Dover-Foxcroft, Maine  - Main St Live</title>
+    <thumb>https://img.youtube.com/vi/KpabZIjvpyY/0.jpg</thumb>
+    <type>youtube</type>
+    <src>KpabZIjvpyY</src>
   </media><media>
     <title>🔴 Mersea Restaurant LIVE Bay View · San Francisco Skyline, Golden Gate &amp;amp; Luxury Waterfront 🌉</title>
     <thumb>https://img.youtube.com/vi/BSWhGNXxT9A/0.jpg</thumb>
@@ -285,10 +285,10 @@
     <type>youtube</type>
     <src>GQbUdGhHw_o</src>
   </media><media>
-    <title>🔴 Spectacular View of Grand Canal - Live view from Hotel San Cassiano</title>
-    <thumb>https://img.youtube.com/vi/tdE-Uu87XmE/0.jpg</thumb>
+    <title>🔴 4k Venice Live Cam - Laguna of Venice with 4K Cam PTZ 30x - Stream from Cantieri Biasin</title>
+    <thumb>https://img.youtube.com/vi/Ts4cAVmJrWE/0.jpg</thumb>
     <type>youtube</type>
-    <src>tdE-Uu87XmE</src>
+    <src>Ts4cAVmJrWE</src>
   </media><media>
     <title>Market Square West Live Cam</title>
     <thumb>https://img.youtube.com/vi/VsuSbXPN93o/0.jpg</thumb>
@@ -310,10 +310,15 @@
     <type>youtube</type>
     <src>L1eldowVJ1Y</src>
   </media><media>
-    <title>State Street North Live Cam</title>
-    <thumb>https://img.youtube.com/vi/CGrmP5woZz8/0.jpg</thumb>
+    <title>State Street South Live Cam - Newburyport Live Stream</title>
+    <thumb>https://img.youtube.com/vi/WkjZg22TBfQ/0.jpg</thumb>
     <type>youtube</type>
-    <src>CGrmP5woZz8</src>
+    <src>WkjZg22TBfQ</src>
+  </media><media>
+    <title>🔴 Live Camera Stream | Floating Lotus | Big Buddha | Koh Samui | Thailand | 2160p 4K</title>
+    <thumb>https://img.youtube.com/vi/x73IEW0fOo0/0.jpg</thumb>
+    <type>youtube</type>
+    <src>x73IEW0fOo0</src>
   </media><media>
     <title>🔴 Baobab Cam | Lamai | Koh Samui | Thailand | Live Beach Webcam | 2160p 4K</title>
     <thumb>https://img.youtube.com/vi/Tpj0cmMVOd0/0.jpg</thumb>
@@ -335,10 +340,30 @@
     <type>youtube</type>
     <src>Q71sLS8h9a4</src>
   </media><media>
-    <title>🔴 Live Camera Stream | El Gaucho | Fisherman&amp;#39;s Village | Bophut | Koh Samui | Thailand | 2160p 4K</title>
-    <thumb>https://img.youtube.com/vi/FyFAqPHBKiQ/0.jpg</thumb>
+    <title>🕹 LIVE CAMERA Russia Saint Petersburg interactive PTZ control real sound Moscow time online</title>
+    <thumb>https://img.youtube.com/vi/VhGdKCs5KIA/0.jpg</thumb>
     <type>youtube</type>
-    <src>FyFAqPHBKiQ</src>
+    <src>VhGdKCs5KIA</src>
+  </media><media>
+    <title>LIVE CAM Nevskiy avenue St. Petersburg Russia. Невский пр. Санкт-Петербург, Гостиный двор</title>
+    <thumb>https://img.youtube.com/vi/w_Dg2vC0tUE/0.jpg</thumb>
+    <type>youtube</type>
+    <src>w_Dg2vC0tUE</src>
+  </media><media>
+    <title>LIVE Nevskiy avenue St. Petersburg Russia Anichkov Palace Невский пр. Аничков дворец Санкт-Петербург</title>
+    <thumb>https://img.youtube.com/vi/fUsJZTHeZn4/0.jpg</thumb>
+    <type>youtube</type>
+    <src>fUsJZTHeZn4</src>
+  </media><media>
+    <title>LIVE CAM Zagorodny avenue, St. Petersburg. Веб-камера онлайн Загородный проспект, Санкт-Петербург</title>
+    <thumb>https://img.youtube.com/vi/h1wly909BYw/0.jpg</thumb>
+    <type>youtube</type>
+    <src>h1wly909BYw</src>
+  </media><media>
+    <title>🪙 LIVE CAMERA 👍 Лайк для поддержки стримов: Строительство газобетонного дома. Cпонсорская трансляция</title>
+    <thumb>https://img.youtube.com/vi/dhVzWNos718/0.jpg</thumb>
+    <type>youtube</type>
+    <src>dhVzWNos718</src>
   </media><media>
     <title>PARADISE 8K Video Ultra HD With Soft Piano Music - 60 FPS - 8K Nature Film</title>
     <thumb>https://img.youtube.com/vi/Tq117lqpr-A/0.jpg</thumb>
@@ -364,5 +389,30 @@
     <thumb>https://img.youtube.com/vi/oYTxGDUQfgI/0.jpg</thumb>
     <type>youtube</type>
     <src>oYTxGDUQfgI</src>
+  </media><media>
+    <title>🔴 PHILIPPINES Live camera, Bankerohan Market area 2, Davao City #philippines</title>
+    <thumb>https://img.youtube.com/vi/JklHtgXkQ2o/0.jpg</thumb>
+    <type>youtube</type>
+    <src>JklHtgXkQ2o</src>
+  </media><media>
+    <title>🔴 PHILIPPINES QUAD VIEW Live Camera Bankerohan Lyn&amp;#39;s Food Haus, Davao City #philippines</title>
+    <thumb>https://img.youtube.com/vi/_9K8wSVX0I8/0.jpg</thumb>
+    <type>youtube</type>
+    <src>_9K8wSVX0I8</src>
+  </media><media>
+    <title>🔴 PHILIPPINES QUAD VIEW Live Camera from Davao City #philippines</title>
+    <thumb>https://img.youtube.com/vi/JoDC5f9Sn4s/0.jpg</thumb>
+    <type>youtube</type>
+    <src>JoDC5f9Sn4s</src>
+  </media><media>
+    <title>🔴 PHILIPPINES Live camera Outside Cynthia Store Cam, Agdao, Davao City #philippines</title>
+    <thumb>https://img.youtube.com/vi/wvaB1q5blpk/0.jpg</thumb>
+    <type>youtube</type>
+    <src>wvaB1q5blpk</src>
+  </media><media>
+    <title>🔴 PHILIPPINES Live Camera Bankerohan Lyn&amp;#39;s Food Haus outside, Davao City #philippines</title>
+    <thumb>https://img.youtube.com/vi/7-oD0lZA7JQ/0.jpg</thumb>
+    <type>youtube</type>
+    <src>7-oD0lZA7JQ</src>
   </media>
 </mediaList>
