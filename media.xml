@@ -1,5 +1,10 @@
 <mediaList>
   <media>
+    <title>9/11 Memorial &amp;amp; Museum</title>
+    <thumb>https://img.youtube.com/vi/ZYQlLQHz2Mg/0.jpg</thumb>
+    <type>youtube</type>
+    <src>ZYQlLQHz2Mg</src>
+  </media><media>
     <title>EarthCam Live:  Brooklyn Bridge Cam</title>
     <thumb>https://img.youtube.com/vi/tErYxn2UM5Y/0.jpg</thumb>
     <type>youtube</type>
@@ -10,20 +15,15 @@
     <type>youtube</type>
     <src>fTh5ssC1z-c</src>
   </media><media>
+    <title>EarthCam Live:  Midway Airport (Chicago, IL)</title>
+    <thumb>https://img.youtube.com/vi/EiUyBIcG4fQ/0.jpg</thumb>
+    <type>youtube</type>
+    <src>EiUyBIcG4fQ</src>
+  </media><media>
     <title>EarthCam Live:  Anglins Pier (Lauderdale-By-The-Sea, FL)</title>
     <thumb>https://img.youtube.com/vi/tAdTOOsrZBQ/0.jpg</thumb>
     <type>youtube</type>
     <src>tAdTOOsrZBQ</src>
-  </media><media>
-    <title>EarthCam Live:  Sanibel Island</title>
-    <thumb>https://img.youtube.com/vi/4LTSTw4jnZc/0.jpg</thumb>
-    <type>youtube</type>
-    <src>4LTSTw4jnZc</src>
-  </media><media>
-    <title>EarthCam Live:  Council Bluffs, Iowa</title>
-    <thumb>https://img.youtube.com/vi/qsrevo5Vdkw/0.jpg</thumb>
-    <type>youtube</type>
-    <src>qsrevo5Vdkw</src>
   </media><media>
     <title>🔴 Bagni Miki - Chioggia Sottomarina (Venezia) - Live Full HD</title>
     <thumb>https://img.youtube.com/vi/3LGl860wEaY/0.jpg</thumb>
@@ -225,6 +225,11 @@
     <type>youtube</type>
     <src>xM1-e429Y3A</src>
   </media><media>
+    <title>Trenton Bridge Lobster, Maine - Acadia National Park LIVE CAM</title>
+    <thumb>https://img.youtube.com/vi/rYOLAEd-uYw/0.jpg</thumb>
+    <type>youtube</type>
+    <src>rYOLAEd-uYw</src>
+  </media><media>
     <title>Fryeburg, Maine - 302 West</title>
     <thumb>https://img.youtube.com/vi/QcNfT_tvkyI/0.jpg</thumb>
     <type>youtube</type>
@@ -240,15 +245,10 @@
     <type>youtube</type>
     <src>x_ruIH2UmjQ</src>
   </media><media>
-    <title>Live - SEALS from North Lighthouse, Block Island, RI USA</title>
-    <thumb>https://img.youtube.com/vi/ejDld-hWwiU/0.jpg</thumb>
+    <title>Dover-Foxcroft, Maine  - Main St Live</title>
+    <thumb>https://img.youtube.com/vi/KpabZIjvpyY/0.jpg</thumb>
     <type>youtube</type>
-    <src>ejDld-hWwiU</src>
-  </media><media>
-    <title>Moosehead Lake, Maine - LIVE cam</title>
-    <thumb>https://img.youtube.com/vi/EGh3HIea6v4/0.jpg</thumb>
-    <type>youtube</type>
-    <src>EGh3HIea6v4</src>
+    <src>KpabZIjvpyY</src>
   </media><media>
     <title>🔴 Mersea Restaurant LIVE Bay View · San Francisco Skyline, Golden Gate &amp;amp; Luxury Waterfront 🌉</title>
     <thumb>https://img.youtube.com/vi/BSWhGNXxT9A/0.jpg</thumb>
@@ -320,10 +320,10 @@
     <type>youtube</type>
     <src>x73IEW0fOo0</src>
   </media><media>
-    <title>🔴 Baobab Cam | Lamai | Koh Samui | Thailand | Live Beach Webcam | 2160p 4K</title>
-    <thumb>https://img.youtube.com/vi/Tpj0cmMVOd0/0.jpg</thumb>
+    <title>🔴 Live Camera Stream | El Gaucho | Fisherman&amp;#39;s Village | Bophut | Koh Samui | Thailand | 2160p 4K</title>
+    <thumb>https://img.youtube.com/vi/FyFAqPHBKiQ/0.jpg</thumb>
     <type>youtube</type>
-    <src>Tpj0cmMVOd0</src>
+    <src>FyFAqPHBKiQ</src>
   </media><media>
     <title>🔴 Crystal Bay Beach Resort Panoramic | Lamai | Koh Samui | Thailand | Live Beach Webcam | 2160p 4K</title>
     <thumb>https://img.youtube.com/vi/NTTtqzL5OWI/0.jpg</thumb>
@@ -335,10 +335,10 @@
     <type>youtube</type>
     <src>CSp55hSd_6A</src>
   </media><media>
-    <title>🔴 El Gaucho | Soi 19 | Sukhumvit Road | Bangkok | Thailand | Live Street Webcam | 2160p 4K</title>
-    <thumb>https://img.youtube.com/vi/Q71sLS8h9a4/0.jpg</thumb>
+    <title>🔴 LIVE The Shack Fisherman&amp;#39;s Village Bophut | Koh Samui Street Webcam | Thailand 24/7 | 2160p 4K</title>
+    <thumb>https://img.youtube.com/vi/bbBGNNPu0rg/0.jpg</thumb>
     <type>youtube</type>
-    <src>Q71sLS8h9a4</src>
+    <src>bbBGNNPu0rg</src>
   </media><media>
     <title>🕹 LIVE CAMERA Russia Saint Petersburg interactive PTZ control real sound Moscow time online</title>
     <thumb>https://img.youtube.com/vi/VhGdKCs5KIA/0.jpg</thumb>
@@ -375,20 +375,20 @@
     <type>youtube</type>
     <src>TZikBxNaaQk</src>
   </media><media>
-    <title>🎄 4K CHRISTMAS SERENITY | Scenic Relaxation with Timeless Holiday Melodies 🎅</title>
-    <thumb>https://img.youtube.com/vi/oYTxGDUQfgI/0.jpg</thumb>
-    <type>youtube</type>
-    <src>oYTxGDUQfgI</src>
-  </media><media>
-    <title>🔥 Cozy Fireplace 4K (LIVE 24/7). Fireplace with Crackling Fire Sounds.</title>
-    <thumb>https://img.youtube.com/vi/LaPe30TunR0/0.jpg</thumb>
-    <type>youtube</type>
-    <src>LaPe30TunR0</src>
-  </media><media>
     <title>5 Most Beautiful and Unbelievable Cities in The World | 4K Travel Guide</title>
     <thumb>https://img.youtube.com/vi/_q0yBz6h4Lg/0.jpg</thumb>
     <type>youtube</type>
     <src>_q0yBz6h4Lg</src>
+  </media><media>
+    <title>TOP 5 • Most Beautiful Places in the World - 4K Nature Film</title>
+    <thumb>https://img.youtube.com/vi/hvBjoRrCEZ8/0.jpg</thumb>
+    <type>youtube</type>
+    <src>hvBjoRrCEZ8</src>
+  </media><media>
+    <title>🎄 4K CHRISTMAS SERENITY | Scenic Relaxation with Timeless Holiday Melodies 🎅</title>
+    <thumb>https://img.youtube.com/vi/oYTxGDUQfgI/0.jpg</thumb>
+    <type>youtube</type>
+    <src>oYTxGDUQfgI</src>
   </media><media>
     <title>🔴 PHILIPPINES Live camera, Bankerohan Market area 2, Davao City #philippines</title>
     <thumb>https://img.youtube.com/vi/JklHtgXkQ2o/0.jpg</thumb>
@@ -405,14 +405,14 @@
     <type>youtube</type>
     <src>JoDC5f9Sn4s</src>
   </media><media>
+    <title>🔴 PHILIPPINES QUAD VIEW Live stores from Davao City #philippines</title>
+    <thumb>https://img.youtube.com/vi/qV1mLE8b3eE/0.jpg</thumb>
+    <type>youtube</type>
+    <src>qV1mLE8b3eE</src>
+  </media><media>
     <title>🔴 PHILIPPINES Live camera Outside Cynthia Store Cam, Agdao, Davao City #philippines</title>
     <thumb>https://img.youtube.com/vi/wvaB1q5blpk/0.jpg</thumb>
     <type>youtube</type>
     <src>wvaB1q5blpk</src>
-  </media><media>
-    <title>🔴 PHILIPPINES Live Camera Bankerohan Lyn&amp;#39;s Food Haus outside, Davao City #philippines</title>
-    <thumb>https://img.youtube.com/vi/7-oD0lZA7JQ/0.jpg</thumb>
-    <type>youtube</type>
-    <src>7-oD0lZA7JQ</src>
   </media>
 </mediaList>
