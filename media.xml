@@ -1,10 +1,5 @@
 <mediaList>
   <media>
-    <title>EarthCam Live:  Washington Monument (Washington, D.C.)</title>
-    <thumb>https://img.youtube.com/vi/mG2gAWY_Guw/0.jpg</thumb>
-    <type>youtube</type>
-    <src>mG2gAWY_Guw</src>
-  </media><media>
     <title>EarthCam Live:  Spirit Lake, Iowa</title>
     <thumb>https://img.youtube.com/vi/WHve7zk9jds/0.jpg</thumb>
     <type>youtube</type>
@@ -15,15 +10,20 @@
     <type>youtube</type>
     <src>ZxCeWQ3Lcig</src>
   </media><media>
+    <title>EarthCamTV 3 Live:  Trending Cams</title>
+    <thumb>https://img.youtube.com/vi/Syl86r2ChtM/0.jpg</thumb>
+    <type>youtube</type>
+    <src>Syl86r2ChtM</src>
+  </media><media>
+    <title>EarthCam Live:  Washington Monument (Washington, D.C.)</title>
+    <thumb>https://img.youtube.com/vi/mG2gAWY_Guw/0.jpg</thumb>
+    <type>youtube</type>
+    <src>mG2gAWY_Guw</src>
+  </media><media>
     <title>EarthCam Live: Giraffe Cam Barn - Greenville, SC</title>
     <thumb>https://img.youtube.com/vi/8ShrAk0RPrQ/0.jpg</thumb>
     <type>youtube</type>
     <src>8ShrAk0RPrQ</src>
-  </media><media>
-    <title>EarthCam Live:  Giraffe Paddock  Cam - Greenville, SC</title>
-    <thumb>https://img.youtube.com/vi/mNtcktpcbtU/0.jpg</thumb>
-    <type>youtube</type>
-    <src>mNtcktpcbtU</src>
   </media><media>
     <title>🔴 ♫ Live Piano Music - Live 24/7: focus music, study music, relaxing music ♫</title>
     <thumb>https://img.youtube.com/vi/I6o7UWEaSbw/0.jpg</thumb>
@@ -40,15 +40,15 @@
     <type>youtube</type>
     <src>ofyDg3_72-s</src>
   </media><media>
-    <title>🔴 4K Live Cam - Chioggia Sottomarina - Live Streaming from Hotel Park Chioggia (Venice) - 4K</title>
-    <thumb>https://img.youtube.com/vi/IByOruhl2ik/0.jpg</thumb>
-    <type>youtube</type>
-    <src>IByOruhl2ik</src>
-  </media><media>
     <title>🔴 4k Venice Live Cam - Laguna of Venice with 4K Cam PTZ 30x - Stream from Cantieri Biasin</title>
     <thumb>https://img.youtube.com/vi/Ts4cAVmJrWE/0.jpg</thumb>
     <type>youtube</type>
     <src>Ts4cAVmJrWE</src>
+  </media><media>
+    <title>🔴 Bacino di San Marco from Via Garibaldi - Live View from Hotel Ca&amp;#39; Formenta Venezia</title>
+    <thumb>https://img.youtube.com/vi/V7YQ_vYyz38/0.jpg</thumb>
+    <type>youtube</type>
+    <src>V7YQ_vYyz38</src>
   </media><media>
     <title>The World Live - Original Version | earthTV®</title>
     <thumb>https://img.youtube.com/vi/HfgIFGbdGJ0/0.jpg</thumb>
@@ -80,20 +80,20 @@
     <type>youtube</type>
     <src>zmv6NPLg91U</src>
   </media><media>
-    <title>👑🅻🅸🆅🅴👑United Kingdom Seaside Webcams Tour🏖️Wales Cornwall Shores🌅England👑British Coast</title>
-    <thumb>https://img.youtube.com/vi/K2gBg7jjhIc/0.jpg</thumb>
-    <type>youtube</type>
-    <src>K2gBg7jjhIc</src>
-  </media><media>
-    <title>🏖️🅰🅾🆅🅸🆅🅾🏖️Webcams de Toda América do Sul Live Tour🇧🇷🇦🇷🇨🇱🇨🇴🇵🇪🇺🇾🇵🇾Brazil Argentina Chile Uruguay Peru</title>
-    <thumb>https://img.youtube.com/vi/oWo15YBQ9lo/0.jpg</thumb>
-    <type>youtube</type>
-    <src>oWo15YBQ9lo</src>
-  </media><media>
     <title>🌊🅻🅸🆅🅴🌊Pacific Cams🇺🇸 West Coasta Tour🌴California☀️Oregon🌲Washington🏄Surf Wave &amp;amp; Ocean Sounds🎧Kiwanda</title>
     <thumb>https://img.youtube.com/vi/KJNbhGO-OjM/0.jpg</thumb>
     <type>youtube</type>
     <src>KJNbhGO-OjM</src>
+  </media><media>
+    <title>🔴🅻🅸🆅🅴🔴Famous USA Cities Webcam Tour 🇺🇸🏙️Las Vegas NYC Miami🗺️Hollywood🌃24/7 Stream of American Life🚕</title>
+    <thumb>https://img.youtube.com/vi/pisk_b_LjBU/0.jpg</thumb>
+    <type>youtube</type>
+    <src>pisk_b_LjBU</src>
+  </media><media>
+    <title>👑🅻🅸🆅🅴👑United Kingdom Seaside Webcams Tour🏖️Wales Cornwall Shores🌅England👑British Coast</title>
+    <thumb>https://img.youtube.com/vi/K2gBg7jjhIc/0.jpg</thumb>
+    <type>youtube</type>
+    <src>K2gBg7jjhIc</src>
   </media><media>
     <title>LIVE NEWS: FOX LOCAL NY 24/7 Live Stream</title>
     <thumb>https://img.youtube.com/vi/ADXWeM9wsDw/0.jpg</thumb>
@@ -255,31 +255,6 @@
     <type>youtube</type>
     <src>MW3fisTCXRQ</src>
   </media><media>
-    <title>🔴 ♫ Live Piano Music - Live 24/7: focus music, study music, relaxing music ♫</title>
-    <thumb>https://img.youtube.com/vi/I6o7UWEaSbw/0.jpg</thumb>
-    <type>youtube</type>
-    <src>I6o7UWEaSbw</src>
-  </media><media>
-    <title>🔴 LIVE 24/7  Rolling Cam Venice - Live Cam in Venice Italy - Livecam en direct #venice</title>
-    <thumb>https://img.youtube.com/vi/a1mcaV3Sf9U/0.jpg</thumb>
-    <type>youtube</type>
-    <src>a1mcaV3Sf9U</src>
-  </media><media>
-    <title>🔴 Venice Italy Live WebCam - The View on Canal from Hotel Pausania</title>
-    <thumb>https://img.youtube.com/vi/ofyDg3_72-s/0.jpg</thumb>
-    <type>youtube</type>
-    <src>ofyDg3_72-s</src>
-  </media><media>
-    <title>🔴 4K Live Cam - Chioggia Sottomarina - Live Streaming from Hotel Park Chioggia (Venice) - 4K</title>
-    <thumb>https://img.youtube.com/vi/IByOruhl2ik/0.jpg</thumb>
-    <type>youtube</type>
-    <src>IByOruhl2ik</src>
-  </media><media>
-    <title>🔴 Bacino di San Marco from Via Garibaldi - Live View from Hotel Ca&amp;#39; Formenta Venezia</title>
-    <thumb>https://img.youtube.com/vi/V7YQ_vYyz38/0.jpg</thumb>
-    <type>youtube</type>
-    <src>V7YQ_vYyz38</src>
-  </media><media>
     <title>Plum Island Point Live Cam</title>
     <thumb>https://img.youtube.com/vi/pB_QZmfKZd0/0.jpg</thumb>
     <type>youtube</type>
@@ -315,6 +290,11 @@
     <type>youtube</type>
     <src>Tpj0cmMVOd0</src>
   </media><media>
+    <title>🔴 LIVE Crystal Bay Yacht Club Xtra Lamai | Koh Samui Beach Webcam | Thailand 24/7 | 2160p 4K</title>
+    <thumb>https://img.youtube.com/vi/TQ3E8bjAbFY/0.jpg</thumb>
+    <type>youtube</type>
+    <src>TQ3E8bjAbFY</src>
+  </media><media>
     <title>🔴 Live Camera Stream | El Gaucho | Fisherman&amp;#39;s Village | Bophut | Koh Samui | Thailand | 2160p 4K</title>
     <thumb>https://img.youtube.com/vi/FyFAqPHBKiQ/0.jpg</thumb>
     <type>youtube</type>
@@ -325,35 +305,30 @@
     <type>youtube</type>
     <src>Q71sLS8h9a4</src>
   </media><media>
-    <title>🔴 LIVE Crystal Bay Yacht Club Xtra Lamai | Koh Samui Beach Webcam | Thailand 24/7 | 2160p 4K</title>
-    <thumb>https://img.youtube.com/vi/TQ3E8bjAbFY/0.jpg</thumb>
+    <title>🕹 LIVE CAMERA Russia Saint Petersburg interactive PTZ control real sound Moscow time online</title>
+    <thumb>https://img.youtube.com/vi/VhGdKCs5KIA/0.jpg</thumb>
     <type>youtube</type>
-    <src>TQ3E8bjAbFY</src>
+    <src>VhGdKCs5KIA</src>
   </media><media>
     <title>Ex 4K video LIVE CAMERA Saint Petersburg, Russia. Palace Bridge Дворцовый мост, навигация на Неве</title>
     <thumb>https://img.youtube.com/vi/CjtIYbmVfck/0.jpg</thumb>
     <type>youtube</type>
     <src>CjtIYbmVfck</src>
   </media><media>
-    <title>LIVE Nevskiy avenue St. Petersburg Russia Anichkov Palace Невский пр. Аничков дворец Санкт-Петербург</title>
-    <thumb>https://img.youtube.com/vi/fUsJZTHeZn4/0.jpg</thumb>
+    <title>LIVE CAMERA Метро Пионерская и ТЦ Голливуд перекресток пр. Испытателей и Коломяжского пр. Петербург</title>
+    <thumb>https://img.youtube.com/vi/dhVzWNos718/0.jpg</thumb>
     <type>youtube</type>
-    <src>fUsJZTHeZn4</src>
+    <src>dhVzWNos718</src>
   </media><media>
     <title>LIVE CAM Nevskiy avenue St. Petersburg Russia. Невский пр. Санкт-Петербург, Гостиный двор</title>
     <thumb>https://img.youtube.com/vi/w_Dg2vC0tUE/0.jpg</thumb>
     <type>youtube</type>
     <src>w_Dg2vC0tUE</src>
   </media><media>
-    <title>LIVE CAMERA Метро Пионерская и ТЦ Голливуд перекресток пр. Испытателей и Коломяжского пр. Петербург</title>
-    <thumb>https://img.youtube.com/vi/dhVzWNos718/0.jpg</thumb>
+    <title>LIVE Nevskiy avenue St. Petersburg Russia Anichkov Palace Невский пр. Аничков дворец Санкт-Петербург</title>
+    <thumb>https://img.youtube.com/vi/fUsJZTHeZn4/0.jpg</thumb>
     <type>youtube</type>
-    <src>dhVzWNos718</src>
-  </media><media>
-    <title>🕹 LIVE CAMERA Russia Saint Petersburg interactive PTZ control real sound Moscow time online</title>
-    <thumb>https://img.youtube.com/vi/VhGdKCs5KIA/0.jpg</thumb>
-    <type>youtube</type>
-    <src>VhGdKCs5KIA</src>
+    <src>fUsJZTHeZn4</src>
   </media><media>
     <title>🎄 4K CHRISTMAS SERENITY | Scenic Relaxation with Timeless Holiday Melodies 🎅</title>
     <thumb>https://img.youtube.com/vi/8AXf4WOHWtU/0.jpg</thumb>
@@ -380,6 +355,16 @@
     <type>youtube</type>
     <src>NTvb6vfESuc</src>
   </media><media>
+    <title>🔴 PHILIPPINES Live camera Lyn&amp;#39;s Samgyup Staff, Davao City #philippines</title>
+    <thumb>https://img.youtube.com/vi/iVn8QRmlSQ4/0.jpg</thumb>
+    <type>youtube</type>
+    <src>iVn8QRmlSQ4</src>
+  </media><media>
+    <title>🔴NightClub Entrance Live Cam, Downtown Davao City,  Illustre Street #philippines</title>
+    <thumb>https://img.youtube.com/vi/kSEetQAMiu8/0.jpg</thumb>
+    <type>youtube</type>
+    <src>kSEetQAMiu8</src>
+  </media><media>
     <title>🔴LIVE CAM Supladoz Illustre Restobar Club - Downtown Davao City #philippines</title>
     <thumb>https://img.youtube.com/vi/9oo2RUH7nE4/0.jpg</thumb>
     <type>youtube</type>
@@ -394,15 +379,5 @@
     <thumb>https://img.youtube.com/vi/5vKt1Hs44u0/0.jpg</thumb>
     <type>youtube</type>
     <src>5vKt1Hs44u0</src>
-  </media><media>
-    <title>🔴NightClub Entrance Live Cam, Downtown Davao City,  Illustre Street #philippines</title>
-    <thumb>https://img.youtube.com/vi/kSEetQAMiu8/0.jpg</thumb>
-    <type>youtube</type>
-    <src>kSEetQAMiu8</src>
-  </media><media>
-    <title>🔴 PHILIPPINES Live camera Lyn&amp;#39;s Samgyup Staff, Davao City #philippines</title>
-    <thumb>https://img.youtube.com/vi/iVn8QRmlSQ4/0.jpg</thumb>
-    <type>youtube</type>
-    <src>iVn8QRmlSQ4</src>
   </media>
 </mediaList>
